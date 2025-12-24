@@ -84,7 +84,7 @@ Predict custom fruit images
 
 The notebook generates:
 
-📈 Training Loss vs Epoch plot                                          📈 Training Accuracy vs Epoch plot
+📈 Training Loss vs Epoch plot                                                                                                   📈 Training Accuracy vs Epoch plot
 <img width="1280" height="581" alt="{43D84944-4A9E-4ED7-9200-B0B1D1D484CF}" src="https://github.com/user-attachments/assets/46a0cbb4-a4bf-4e11-8830-101cfe752356" />
 
 
@@ -113,6 +113,7 @@ Input Image (128×128×3)
 → Conv → ReLU → MaxPool
 → Conv → ReLU → MaxPool
 → Fully Connected → Output (10 classes)
+
 
 
 
