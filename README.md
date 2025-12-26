@@ -100,7 +100,8 @@ The notebook generates:
 
 
 🖼️ Custom Image Prediction Gallery with confidence scores
-<img width="1456" height="571" alt="{C15225BB-C79A-4446-B350-B8442EEE413E}" src="https://github.com/user-attachments/assets/21791be0-17e4-4c06-8391-163a20dbc1e3" />
+<img width="1174" height="494" alt="{14F39EE1-4BB4-48F6-9B9A-C3187DE57F44}" src="https://github.com/user-attachments/assets/b085b812-01a4-4cfd-a817-2129f4d5b604" />
+
 
 
 Example prediction format:
@@ -114,6 +115,7 @@ Input Image (128×128×3)
 → Conv → ReLU → MaxPool
 → Conv → ReLU → MaxPool
 → Fully Connected → Output (10 classes)
+
 
 
 
