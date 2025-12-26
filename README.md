@@ -85,11 +85,12 @@ Predict custom fruit images
 The notebook generates:
 
 📈 Training Loss vs Epoch plot                                                                                                   📈 Training Accuracy vs Epoch plot
-<img width="1017" height="449" alt="{F2A02059-D8D1-4F7E-94B7-1E396DE95930}" src="https://github.com/user-attachments/assets/4b143969-afaa-4393-9d40-843308ed25f0" />
+<img width="1048" height="463" alt="{4E99CF71-2EDE-4991-A0BF-9B8A6829BC28}" src="https://github.com/user-attachments/assets/2c4521ee-ba38-43bf-9a6b-4d52cfb1f3bf" />
+
 
 
 🔥 Confusion Matrix (Test Set)
-<img width="967" height="738" alt="{D26C1A17-27AB-4B3E-9A6B-ADEFD8AFBB99}" src="https://github.com/user-attachments/assets/0d086dc2-9c90-48a8-a9c1-da6680fbd572" />
+<img width="948" height="699" alt="{13D02D29-1951-4362-810D-353ACCE5AAB3}" src="https://github.com/user-attachments/assets/5e7823da-fdb6-47d8-8133-65ab3a8e7312" />
 
 
 ❌ Visual Error Analysis (misclassified images)
@@ -113,6 +114,7 @@ Input Image (128×128×3)
 → Conv → ReLU → MaxPool
 → Conv → ReLU → MaxPool
 → Fully Connected → Output (10 classes)
+
 
 
 
