@@ -91,7 +91,8 @@ The notebook generates:
 
 
 🔥 Confusion Matrix (Test Set)
-<img width="948" height="699" alt="{13D02D29-1951-4362-810D-353ACCE5AAB3}" src="https://github.com/user-attachments/assets/5e7823da-fdb6-47d8-8133-65ab3a8e7312" />
+<img width="1202" height="764" alt="{CB0B6F37-81BD-49DC-881D-3C24C27D92BF}" src="https://github.com/user-attachments/assets/e147bdb5-ff09-49dc-9196-d9d46f45f379" />
+
 
 
 ❌ Visual Error Analysis (misclassified images)
@@ -117,6 +118,7 @@ Input Image (128×128×3)
 → Conv → ReLU → MaxPool
 → Conv → ReLU → MaxPool
 → Fully Connected → Output (10 classes)
+
 
 
 
