@@ -96,9 +96,10 @@ The notebook generates:
 
 
 ❌ Visual Error Analysis (misclassified images)
-<img width="371" height="381" alt="{822DAD49-B292-46D6-84D8-D0E4013751E8}" src="https://github.com/user-attachments/assets/1d3f0422-7684-458d-951e-e0b6e68b7cd9" />
-<img width="368" height="387" alt="{787DB527-5DBA-4165-962F-C23B28BFF217}" src="https://github.com/user-attachments/assets/8e4e60fc-5a78-4439-99ef-1abb6bbfc235" />
-<img width="364" height="373" alt="{D69E62D2-BEA1-4CDC-81A2-B8B694AA0D2B}" src="https://github.com/user-attachments/assets/d219fd23-7c1e-4b38-94f6-098247739349" />
+<img width="417" height="341" alt="{9ABE4F73-BDB6-44ED-ACE2-44F269566B12}" src="https://github.com/user-attachments/assets/926815fc-ac35-481c-8a0f-2e9f3a44be2d" />
+<img width="408" height="340" alt="{9ED66DA9-0DF8-445B-BAC7-144329B1A439}" src="https://github.com/user-attachments/assets/5c9d4a14-bb55-44c6-9885-d66a24e63dfe" />
+<img width="452" height="281" alt="{251233A5-1154-476B-933E-F186B9F5BFAF}" src="https://github.com/user-attachments/assets/5f83667e-16c7-4b7b-a111-b7c638ab2fcb" />
+
 
 
 🖼️ Custom Image Prediction Gallery with confidence scores
@@ -118,6 +119,7 @@ Input Image (128×128×3)
 → Conv → ReLU → MaxPool
 → Conv → ReLU → MaxPool
 → Fully Connected → Output (10 classes)
+
 
 
 
