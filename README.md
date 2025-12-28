@@ -108,20 +108,6 @@ The notebook generates:
 
 
 
-Example prediction format:
-- Fully Connected (Dense) layers
-- Dropout for regularization
-- Softmax output layer for classification
-
-```text
-Input Image (128×128×3)
-→ Conv → ReLU → MaxPool
-→ Conv → ReLU → MaxPool
-→ Conv → ReLU → MaxPool
-→ Fully Connected → Output (10 classes)
-
-
-
 
 
 
